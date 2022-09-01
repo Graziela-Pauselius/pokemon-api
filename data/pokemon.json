@@ -1,0 +1,324 @@
+[
+	{
+		"name": "Arbok",
+		"type": "poison",
+		"score": 120,
+		"ability": {
+			"title": "Intimidating Pattern",
+			"content": "As long as this Pokémon is your Active Pokémon, your opponent's Active Pokémon's attacks do 30 less damage (before applying Weakness and Resistance)."
+		},
+		"power": {
+			"title": "Venomous Fang",
+			"content": "Your opponent's Active Pokémon is now Poisoned."
+		},
+		"image": "arbok.png"
+	},
+	{
+		"name": "Butterfree",
+		"type": "grass",
+		"score": 100,
+		"ability": {
+			"title": "Sooth Dust",
+			"content": "As long as Butterfree is your Active Pokémon, remove 1 damage counter from each of your Pokémon between turns."
+		},
+		"power": {
+			"title": "Whirlwind",
+			"content": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon."
+		},
+		"image": "butterfree.png"
+	},
+	{
+		"name": "Charmander",
+		"type": "fire",
+		"score": 60,
+		"ability": {
+			"title": "Intimidating Pattern",
+			"content": "As long as this Pokémon is your Active Pokémon, your opponent's Active Pokémon's attacks do 20 less damage (before applying Weakness and Resistance)."
+		},
+		"power": {
+			"title": "Fire Fang",
+			"content": "Your opponent's Active Pokémon is now Burned."
+		},
+		"image": "charmander.png"
+	},
+	{
+		"name": "Electabuzz",
+		"type": "electric",
+		"score": 90,
+		"ability": {
+			"title": "Quick Attack",
+			"content": "his attack does 40 damage plus 20 more damage."
+		},
+		"power": {
+			"title": "Thundershock",
+			"content": "he Defending Pokémon is now Paralyzed."
+		},
+		"image": "electabuzz.png"
+	},
+	{
+		"name": "Gastly",
+		"type": "psychic",
+		"score": 40,
+		"ability": {
+			"title": "Little Grudge",
+			"content": "During your opponent's next turn, if this Pokémon is Knocked Out by damage from an attack, discard an Energy attached to the Attacking Pokémon.."
+		},
+		"power": {
+			"title": "Nightmare",
+			"content": "Your opponent's Active Pokémon is now Asleep."
+		},
+		"image": "gastly.png"
+	},
+	{
+		"name": "Gyarados",
+		"type": "water",
+		"score": 100,
+		"ability": {
+			"title": "Dragon Crush",
+			"content": "This attack does 10 damage to each Defending Pokémon. Discard an Energy card from each Defending Pokémon."
+		},
+		"power": {
+			"title": "Aqua Sonic",
+			"content": "This attack's damage is not affected by Resistance."
+		},
+		"image": "gyarados.png"
+	},
+	{
+		"name": "jynx",
+		"type": "psychic",
+		"score": 70,
+		"ability": {
+			"title": "Victory Kiss",
+			"content": "If this Pokémon is on your Bench, you may heal 10 damage from your Active Pokémon.."
+		},
+		"power": {
+			"title": "Freeze Light",
+			"content": "Defending Pokémon is now Paralyzed or the Defending Pokémon is now Burned."
+		},
+		"image": "jynx.png"
+	},
+	{
+		"name": "koffing",
+		"type": "poison",
+		"score": 60,
+		"ability": {
+			"title": "Blow-Away Bomb",
+			"content": "Once during your turn, when you discard this Pokémon with the effect of Roxie, you may put 1 damage counter on each of your opponent's Pokémon. (Place damage counters after the effect of Roxie.)"
+		},
+		"power": {
+			"title": "Poison Gas",
+			"content": "Your opponent's Active Pokémon is now Poisoned."
+		},
+		"image": "koffing.png"
+	},
+	{
+		"name": "Meowth",
+		"type": "normal",
+		"score": 60,
+		"ability": {
+			"title": "Snatch and Run",
+			"content": "Search your deck for a Pokémon Tool card or Rocket's Secret Machine card, show it to your opponent, and put it into your hand. If you do, you may switch Rocket's Meowth with 1 of your Benched Pokémon. Shuffle your deck afterward."
+		},
+		"power": {
+			"title": "Miraculous Comeback",
+			"content": "This attack does 10 damage times the number of heads. Rocket's Meowth does 10 damage times the number of tails to itself."
+		},
+		"image": "meowth.png"
+	},
+	{
+		"name": "Meowth V",
+		"type": "psychic",
+		"score": 170,
+		"ability": {
+			"title": "X Ball",
+			"content": "Does 20 damage times the amount of Energy attached to this Pokémon and the Defending Pokémon."
+		},
+		"power": {
+			"title": "Transfer Break",
+			"content": "Move an Energy from this Pokémon to 1 of your Benched Pokémon."
+		},
+		"image": "meowthv.png"
+	},
+	{
+		"name": "Persian",
+		"type": "normal",
+		"score": 130,
+		"ability": {
+			"title": "Vengeance",
+			"content": "This attack does 20 more damage for each Pokémon in your discard pile. You can't add more than 180 damage in this way."
+		},
+		"power": {
+			"title": "Sharp Claws",
+			"content": "Your opponent's looses 60 more damage.."
+		},
+		"image": "persian.png"
+	},
+	{
+		"name": "Pidgeot",
+		"type": "flying",
+		"score": 120,
+		"ability": {
+			"title": "Clutch",
+			"content": "The Defending Pokémon can't retreat during your opponent's next turn."
+		},
+		"power": {
+			"title": "Strong Gust",
+			"content": "The Defending Pokémon can't retreat until the end of your opponent's next turn."
+		},
+		"image": "pidgeotto.png"
+	},
+	{
+		"name": "Pikachu",
+		"type": "electric",
+		"score": 70,
+		"ability": {
+			"title": "Recharge",
+			"content": "Energy card and attach it to Pikachu. Shuffle your deck afterward."
+		},
+		"power": {
+			"title": "Thunderbolt",
+			"content": "Discard all Energy attached to Pikachu."
+		},
+		"image": "pikachu.png"
+	},
+	{
+		"name": "Poliwrath",
+		"type": "water",
+		"score": 120,
+		"ability": {
+			"title": "Mega Throw",
+			"content": "If the Defending Pokémon is Pokémon-ex, this attack does 50 damage plus 30 more damage."
+		},
+		"power": {
+			"title": "Split Spiral Punch",
+			"content": "The Defending Pokémon is now Confused."
+		},
+		"image": "poliwrath.png"
+	},
+	{
+		"name": "Psyduck.",
+		"type": "psychic",
+		"score": 40,
+		"ability": {
+			"title": "Bubble",
+			"content": " Defending Pokémon is now Paralyzed."
+		},
+		"power": {
+			"title": "Confuse Ray",
+			"content": "Defending Pokémon is now Confused."
+		},
+		"image": "psyduck.png"
+	},
+	{
+		"name": "Rhydon",
+		"type": "fighting",
+		"score": 90,
+		"ability": {
+			"title": "Magma Jab",
+			"content": "This attack's damage is not affected by Resistance."
+		},
+		"power": {
+			"title": "Shoot Down",
+			"content": "If the Defending Pokémon has Team Aqua in its name, the Defending Pokémon is now Confused."
+		},
+		"image": "rhydon.png"
+	},
+	{
+		"name": "Sandshrew",
+		"type": "fighting",
+		"score": 60,
+		"ability": {
+			"title": "Double Scratch",
+			"content": "As long as this Pokémon is your Active Pokémon, your opponent's Active Pokémon's attacks do 30 less damage (before applying Weakness and Resistance)."
+		},
+		"power": {
+			"title": "Sand Tomb",
+			"content": "The Defending Pokémon can't retreat during your opponent's next turn."
+		},
+		"image": "sandshrew.png"
+	},
+	{
+		"name": "Garchomp",
+		"type": "fighting",
+		"score": 200,
+		"ability": {
+			"title": "Quick Dive",
+			"content": "This attack does 50 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+		},
+		"power": {
+			"title": "Sonic Strike",
+			"content": "Your opponent's Active Pokémon is now Paralyzed."
+		},
+		"image": "garchomp.png"
+	},
+	{
+		"name": "Machamp",
+		"type": "fighting",
+		"score": 180,
+		"ability": {
+			"title": "Steaming Mad",
+			"content": "This attack does 20 damage times the number of damage counters on this Pokémon. This Pokémon is now Confused."
+		},
+		"power": {
+			"title": "Crazy Hammer",
+			"content": "Your opponent's Active Pokémon loose 60 points."
+		},
+		"image": "machamp.png"
+	},
+	{
+		"name": "Mightyena",
+		"type": "dark",
+		"score": 120,
+		"ability": {
+			"title": "Hustle Bark",
+			"content": "If your opponent has any Pokémon VMAX in play, this Pokémon's attacks cost 3 times less"
+		},
+		"power": {
+			"title": "Venomous Fang",
+			"content": "Your opponent's Active Pokémon is now Poisoned."
+		},
+		"image": "migthyena.png"
+	},
+	{
+		"name": "Onix",
+		"type": "poison",
+		"score": 120,
+		"ability": {
+			"title": "Raging Swing",
+			"content": "This attack does 50 damage for each damage counter on this Pokémon"
+		},
+		"power": {
+			"title": "Rock Tomb",
+			"content": "During your opponent's next turn, the Defending Pokémon can't retreat."
+		},
+		"image": "onix.png"
+	},
+	{
+		"name": "Voltorb",
+		"type": "electric",
+		"score": 40,
+		"ability": {
+			"title": "Psycho Waves",
+			"content": "Discard an Energy card attached to Voltorb. The Defending Pokémon is now Confused."
+		},
+		"power": {
+			"title": "Thunder Wave",
+			"content": "Defending Pokémon is now Paralyzed."
+		},
+		"image": "voltorb.png"
+	},
+	{
+		"name": "Wigglytuff",
+		"type": "fairy",
+		"score": 90,
+		"ability": {
+			"title": "Punishing Slap",
+			"content": "If any of your opponent's Pokémon have any Darkness Energy attached to them, this attack does 60 more damage."
+		},
+		"power": {
+			"title": "Hypnoblast",
+			"content": " Defending Pokémon is now Asleep"
+		},
+		"image": "wigglytuff.png"
+	}
+]
