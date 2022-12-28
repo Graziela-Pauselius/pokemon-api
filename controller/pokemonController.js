@@ -5,12 +5,9 @@ const pokemonData = JSON.parse(
 	fs.readFileSync(`${__dirname}/../data/pokemon.json`)
 );
 
-// console.log(pokemonData);
-
 //--------- Middleware ----------
 
 // Get all pokemons
-
 exports.getAllPokemon = (req, res) => {
 	res.status(200).json({
 		status: "sucess",

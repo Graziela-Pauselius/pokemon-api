@@ -17,7 +17,6 @@ app.use("/", pokemonRouter);
 
 //---------- Port ----------
 const PORT = process.env.PORT;
-console.log(PORT);
 app.listen(PORT, () => {
 	console.log(`Server running on ${PORT}`);
 });
