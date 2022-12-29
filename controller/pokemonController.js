@@ -23,6 +23,6 @@ exports.getPokemonByName = (req, res) => {
 
 	res.status(200).json({
 		status: "sucess",
-		pokemonData,
+		pokemon,
 	});
 };

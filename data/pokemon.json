@@ -266,20 +266,6 @@
 		"image": "machamp.png"
 	},
 	{
-		"name": "Mightyena",
-		"type": "dark",
-		"score": 120,
-		"ability": {
-			"title": "Hustle Bark",
-			"content": "If your opponent has any Pokémon VMAX in play, this Pokémon's attacks cost 3 times less"
-		},
-		"power": {
-			"title": "Venomous Fang",
-			"content": "Your opponent's Active Pokémon is now Poisoned."
-		},
-		"image": "migthyena.png"
-	},
-	{
 		"name": "Onix",
 		"type": "poison",
 		"score": 120,
